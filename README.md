@@ -33,17 +33,6 @@ I was curious about Netflix's content strategy, so I grabbed a dataset of their 
 - 2019 was peak content addition year
 - Most TV shows only have 1 season
 
-## Sample Visualizations
-
-### Content Distribution
-![Content Type](visualizations/01_content_type.png)
-
-### Growth Over Time
-![Yearly Growth](visualizations/04_yearly_growth.png)
-
-### Dashboard Overview
-![Dashboard](visualizations/00_dashboard.png)
-
 ## Project Structure
 
 ```
@@ -72,25 +61,6 @@ netflix-analysis/
     └── 14_day_of_week.png
 ```
 
-## How to Run
-
-1. Clone this repo
-```bash
-git clone https://github.com/yourusername/netflix-analysis.git
-cd netflix-analysis
-```
-
-2. Install requirements
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the notebook
-```bash
-jupyter notebook Netflix_Data_Analysis.ipynb
-```
-
-4. Run all cells - it'll generate the cleaned data and all visualizations automatically
 
 ## Tech Stack
 
@@ -126,4 +96,3 @@ Some things I might explore later:
 
 ---
 
-Feel free to fork this and play around with it. If you find something interesting, let me know!
